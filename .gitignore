@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# SECURITY WARNING: keep the secret key used in production secret!
+SECRET_KEY = 'django-insecure-e*81efa@%=ds-je((&v^r_aex9$xs1r3yx-f-zt5k6+f)&s+y1'
+
+# SECURITY WARNING: don't run with debug turned on in production!
+DEBUG = True
